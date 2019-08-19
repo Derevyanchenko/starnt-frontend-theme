@@ -1,1 +1,1 @@
-# starnt-frontend-theme
+template
